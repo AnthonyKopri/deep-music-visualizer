@@ -1,3 +1,10 @@
+##############################
+# Currently, the code does not work as intended, as audio is not written into the .mp4.
+# Still, the audio is used to compute the visual effects, and audio can be added later on using ffmpeg.
+# As long as this header exists, the bug exists. 
+#############################
+
+
 import librosa
 import argparse
 import numpy as np
