@@ -7,7 +7,7 @@ More examples: https://www.instagram.com/deep_music_visualizer/
 
 ## Installation
 
-This repo has been tested on Python3
+This repo is a fork of msiegs deep-music-visualizer (https://github.com/msieg/deep-music-visualizer) has been tested on Python3.
 
 Assuming you have python installed, open terminal and run these commands:
 
